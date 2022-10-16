@@ -49,7 +49,6 @@ img {
   max-width: 100%;
   height: auto;
 }
-
 .container {
   max-width: 1200px;
   padding: 0 15px;
@@ -134,7 +133,6 @@ img {
 .contact-link:focus {
   color: var(--focus-color);
 }
-
 /* end header */
 /* styles index.html */
 .section-hero {
